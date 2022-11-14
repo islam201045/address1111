@@ -57,7 +57,7 @@ public class Businesses extends Both{
     public String toString (){
         return "title : " + this.Title +"genre : "+this.Genre +
                 "contact person " + this.ContactPerson +
-               "Website : "+ this.Website +super.toString();
+               "Website : "+ this.Website +super.toString()+"hi";
     }
 }
  
